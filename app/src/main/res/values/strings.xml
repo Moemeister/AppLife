@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppLife</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="income">Income</string>
+    <string name="budget">Budget</string>
+    <string name="expenses">Expenses</string>
 </resources>
